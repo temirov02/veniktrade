@@ -1,0 +1,336 @@
+@media screen and (max-width: 800px) {
+  .card-title {
+    width: 213px;
+  }
+  .banner {
+    padding: 80px 0 140px;
+  }
+
+  .header-a {
+    display: none;
+  }
+  .header-phone {
+    font-size: 20px;
+  }
+  .banner-h1 {
+   
+    font-size: 48px;
+  }
+  .banner-p1 {
+    margin-top: 10px;
+    margin-bottom: 15px;
+  }
+  .banner-p2 {
+    font-weight: 500;
+  }
+  .banner-btn {
+    padding: 10px 60px;
+    font-size: 18px;
+  }
+  .supurgi {
+    padding: 80px 0;
+  }
+  .zero-p {
+    font-size: 33px;
+  }
+  .led-text {
+    font-size: 23px;
+    line-height: 108%;
+  }
+  .led {
+    padding: 80px 0 90px;
+  }
+  .dollar {
+    padding: 100px 0;
+    margin: 0 auto;
+  }
+  .super {
+    margin: 0 auto;
+  }
+}
+@media screen and (max-width:767px){
+  .mediaNoneText {
+    display: block;
+  }
+  .mouse-p2{
+    display: block;
+  }
+  .mediaNoneText.mouse-p2{
+    display: block;
+  }
+  .goste {
+    display: none;
+  }
+  .dollar-col{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    flex-direction: column;
+  }
+ .svg-row {
+   padding: 50px 0;
+ }
+  .uzcard {
+    padding: 50px 0;
+  }
+  .dollar {
+    pad: 70px 0;
+  }
+  .dollar-p3{
+    padding: 0 20px;
+  }
+  .card {
+    padding: 60px 0;
+  }
+  .spurgi {
+    padding: 50px 0;
+  }
+}
+
+
+@media screen and (max-width: 470px) {
+  .header-right {
+    display: none;
+  }
+  .card-desc {
+    max-width: 255px;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 12px;
+    line-height: 130%;
+    /* or 16px */
+    display: flex;
+    align-items: center;
+    text-align: center;
+    text-transform: uppercase;
+    color: #0c0b0a;
+    opacity: 0.4;
+  }
+  .dollar {
+    margin: 0 auto;
+    align-items: center;
+  }
+
+
+  .uzcard {
+    padding: 0px;
+  }
+
+  .led-img-2 {
+    margin-top: 20px;
+  }
+  .zero-img-1 {
+    max-width: 152px;
+    width: 100%;
+  }
+  /* .mouse-row1 {
+    position: absolute;
+  }
+  .mouse-row2 {
+    position: relative;
+  } */
+  .banner-h1 {
+    margin: 0;
+    font-weight: 900;
+    font-size: 34px;
+    line-height: 120%;
+    /* or 41px */
+    text-transform: uppercase;
+    color: #0c0b0a;
+  }
+
+  .end-a {
+    margin-top: 10px;
+    font-size: 10px;
+  }
+
+  .card-title {
+    width: 140px;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 12px;
+    line-height: 130%;
+    /* or 16px */
+    text-align: center;
+    color: rgba(12, 11, 10, 0.8);
+  }
+  .card-p {
+    width: 255px;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 30px;
+    line-height: 130%;
+    /* or 39px */
+    display: flex;
+    align-items: center;
+    text-align: center;
+    text-transform: uppercase;
+    color: #0c0b0a;
+  }
+  .miller-input {
+    max-width: 320px;
+    width: 100%;
+  }
+  .led-img-2 {
+    max-width: 250px;
+    width: 100%;
+    margin: 0;
+  }
+  .led-text-img {
+    margin-top: 16px;
+    justify-content: space-between;
+  }
+  .led-img-2 {
+    max-width: 170px;
+    width: 100%;
+    margin: 0;
+  }
+  .row-1 {
+    padding: 0;
+  }
+
+  .led-img-3 {
+    max-width: 170px;
+    width: 100%;
+    margin: 0;
+  }
+  .mouse-p2 {
+    display: none;
+  }
+
+  .led-text {
+    max-width: 320px;
+    font-style: normal;
+    font-weight: 900;
+    font-size: 16px;
+    line-height: 120%;
+    /* or 19px */
+    color: #000000;
+  }
+  .uzcard-title {
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    line-height: 130%;
+    /* or 16px */
+    text-align: justify;
+    color: #707070;
+  }
+  .uzcard-desc {
+    width: 320px;
+    margin: 0 auto;
+    font-style: normal;
+    font-weight: 900;
+    font-size: 20px;
+    line-height: 120%;
+    /* or 24px */
+    text-align: center;
+    color: #0c0b0a;
+  }
+
+  .fload {
+    width: 350px;
+    margin: 0 auto;
+  }
+  .zero-p {
+    font-style: normal;
+    font-weight: 900;
+    font-size: 24px;
+    line-height: 130%;
+    /* or 31px */
+    display: flex;
+    align-items: center;
+    text-align: center;
+    text-transform: uppercase;
+    color: #0c0b0a;
+  }
+  .banner {
+    background-image: url(../img/122222222222.png);
+  }
+  .banner-p2 {
+    width: 217px;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 10px;
+    line-height: 130%;
+    /* or 13px */
+    display: flex;
+    align-items: center;
+    color: #0c0b0a;
+  }
+  .end-p2 {
+    width: 325px;
+  }
+  .banner-p1 {
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 100%;
+    /* identical to box height, or 16px */
+
+    display: flex;
+    align-items: center;
+
+    color: #0c0b0a;
+  }
+  .banner {
+    padding: 30px 0 300px 0;
+  }
+  .banner-p1 {
+    margin-bottom: 15px;
+    margin-top: 4px;
+  }
+  .banner-btn {
+    font-size: 14px;
+    padding: 12px 54px;
+  }
+  .banner-p2 {
+    width: 279px;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 15px;
+    line-height: 142%;
+    display: flex;
+    align-items: center;
+    color: #0c0b0a;
+  }
+  .card-p {
+    font-size: 13px;
+  }
+  .miller-input {
+    color: black;
+  }
+  .dollar {
+    padding: 50px 0;
+  }
+  .dollar-start-p {
+    margin-bottom: 50px;
+    font-size: 28px;
+  }
+  .svg-row {
+    margin-top: 30px;
+  }
+  .led {
+    padding: 50px 0 60px;
+  }
+  .end-p1 {
+    padding:10px 0;
+    font-size:18px ;
+  }
+  .end-p2 {
+    font-size: 15px;
+  }
+  .led-text {
+    margin-bottom: 40px;
+  }
+  .dollar-p2 {
+    max-width: 155px;
+    width: 100%;
+  }
+  .dollar-p3 {
+    max-width: 268px;
+    width: 100%;
+  }
+}
+
